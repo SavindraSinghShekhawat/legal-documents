@@ -56,10 +56,29 @@ We comply with applicable children's privacy regulations (such as COPPA). The co
 
 We encourage parents and guardians to observe, participate in, and/or monitor and guide their children's online activity. If you are a parent or guardian and believe we have collected inappropriate information from your child outside the scope of internal game operations, please contact us immediately so we can remove that data.
 
-## 7. Changes to This Policy
+## 7. Data Deletion Instructions
+
+If you wish to delete your Ludo Prince account and all associated data, you can do so by following these steps:
+
+**In-App Deletion:**
+1. Open the Ludo Prince app.
+2. Go to Settings > Profile.
+3. Tap the "Delete Account" button.
+4. Confirm your choice. Your account and all associated data will be immediately and permanently deleted.
+
+**Web Deletion Request:**
+If you no longer have access to the app, you can request account deletion by emailing us directly:
+1. Send an email to **shekhawatsavindra@gmail.com** from the email address associated with your account.
+2. Use the subject line: **"Account Deletion Request - Ludo Prince"**.
+3. Upon receiving your request, we will manually delete your account, authentication record, and all associated game/usage data from our Firebase servers within 7 business days.
+
+**Data Kept:** 
+Once deleted, all your personal data (email, name, user ID) and game progress will be permanently erased from our active databases. We do not retain any of your personal data after deletion.
+
+## 8. Changes to This Policy
 
 We may update our Privacy Policy from time to time. Any changes will be reflected within the app listing on the App Store/Google Play Store and the Effective Date at the top of this document will be updated.
 
-## 8. Contact Us
+## 9. Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at: **shekhawatsavindra@gmail.com**
